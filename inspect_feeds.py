@@ -2,14 +2,7 @@ import feedparser
 
 
 RSS_FEEDS = {
-    "Python Jobs": "https://www.python.org/jobs/feed/rss/",
-    "Foss Jobs": "https://www.fossjobs.net/rss/programmers/",
-    "Remote First Jobs Entry": "https://remotefirstjobs.com/rss/jobs/entry-level.rss",
-    "Remote First Jobs Software": "https://remotefirstjobs.com/rss/jobs/software-development.rss",
-    "Remote First Jobs Python": "https://remotefirstjobs.com/rss/jobs/python.rss",
-    "We Work Remotely": "https://weworkremotely.com/remote-jobs.rss",
-    "Jobicy": "https://jobicy.com/jobs/feed",
-    "higher edjobs": "https://www.higheredjobs.com/rss/categoryFeed.cfm?catID=161",
+
 }
 
 
