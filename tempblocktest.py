@@ -4,12 +4,11 @@ from lever import fetch_lever_jobs
 
 
 GREENHOUSE_BOARDS = {
-    "Gusto": "gusto",
-    "True Anomaly": "trueanomalyinc",
+
 }
 
 LEVER_SITES = {
-    "Palantir": "palantir",
+
 }
 
 
@@ -85,14 +84,6 @@ if __name__ == "__main__":
     print("             DONE")
 
 
-
-
-
-
-
-
-
-url = "https://www.higheredjobs.com/rss/categoryFeed.cfm?catID=161"
 
 headers = {
     "User-Agent": "Mozilla/5.0"
