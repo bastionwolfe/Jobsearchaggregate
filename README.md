@@ -1,5 +1,7 @@
 # Job Finder
 
+![Job Finder application](screenshot/applicationpicture.png)
+
 A desktop job-search aggregator built with Python that collects job postings from RSS feeds and public ATS APIs, normalizes them into a common format, stores them in SQLite, and provides a desktop interface for searching and tracking applications.
 
 The project was built to make job searching less repetitive by bringing listings from multiple sources into a single local application.
